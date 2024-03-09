@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="agreement_valid" label="Agreement valid" language="en" table="x_27034_rentals_tenants">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>agreement_valid</element>
+            <help/>
+            <hint/>
+            <label>Agreement valid</label>
+            <language>en</language>
+            <name>x_27034_rentals_tenants</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>avi</sys_created_by>
+            <sys_created_on>2024-03-09 19:52:35</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Agreement valid</sys_name>
+            <sys_package display_value="Rentals" source="x_27034_rentals">4631c5c647fc0210842d5882e36d43a7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rentals">4631c5c647fc0210842d5882e36d43a7</sys_scope>
+            <sys_update_name>sys_documentation_x_27034_rentals_tenants_agreement_valid_en</sys_update_name>
+            <sys_updated_by>avi</sys_updated_by>
+            <sys_updated_on>2024-03-09 19:52:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

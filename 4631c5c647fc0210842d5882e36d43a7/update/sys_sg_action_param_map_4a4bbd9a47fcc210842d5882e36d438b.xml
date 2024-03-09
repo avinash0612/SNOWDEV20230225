@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Tenants)">4a4bbd9a47fcc210842d5882e36d4385</button>
+        <item_parameter display_value="Tenants electric">ca4bbd9a47fcc210842d5882e36d4382</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>avi</sys_created_by>
+        <sys_created_on>2024-03-09 19:59:43</sys_created_on>
+        <sys_id>4a4bbd9a47fcc210842d5882e36d438b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ca4bbd9a47fcc210842d5882e36d4382</sys_name>
+        <sys_package display_value="Rentals" source="x_27034_rentals">4631c5c647fc0210842d5882e36d43a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rentals">4631c5c647fc0210842d5882e36d43a7</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_4a4bbd9a47fcc210842d5882e36d438b</sys_update_name>
+        <sys_updated_by>avi</sys_updated_by>
+        <sys_updated_on>2024-03-09 19:59:43</sys_updated_on>
+        <ui_parameter display_value="Electric">424bbd9a47fcc210842d5882e36d4388</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
