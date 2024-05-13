@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>transaction_ref</col_name_string>
+        <index_col_name element="transaction_ref" name="x_27034_rentals_rentals">d782858a47fc0210842d5882e36d4377</index_col_name>
+        <logical_table_name>x_27034_rentals_rentals</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-05-10 16:19:10</sys_created_on>
+        <sys_id>3b5b54da478e4610842d5882e36d437d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_27034_rentals_rentals</sys_name>
+        <sys_package display_value="Rentals" source="x_27034_rentals">4631c5c647fc0210842d5882e36d43a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rentals">4631c5c647fc0210842d5882e36d43a7</sys_scope>
+        <sys_update_name>sys_index_x_27034_rentals_rentals_transaction_ref</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-05-10 16:19:10</sys_updated_on>
+        <table display_value="Rentals" name="x_27034_rentals_rentals">5b81450a47fc0210842d5882e36d43a3</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

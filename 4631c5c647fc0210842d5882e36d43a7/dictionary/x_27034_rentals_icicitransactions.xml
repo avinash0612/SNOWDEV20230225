@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="513c585e478e4610842d5882e36d43db" extends="sys_import_set_row" label="ICICITransactions" max_length="40" name="x_27034_rentals_icicitransactions" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Deposit Amount (INR )" label="Deposit Amount (INR )" max_length="40" name="u_deposit_amount__inr__" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Transaction Date" label="Transaction Date" max_length="40" name="u_transaction_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Transaction Remarks" label="Transaction Remarks" max_length="79" name="u_transaction_remarks" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Withdrawal Amount (INR )" label="Withdrawal Amount (INR )" max_length="40" name="u_withdrawal_amount__inr__" type="string"/>
+    </element>
+</database>

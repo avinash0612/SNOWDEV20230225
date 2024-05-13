@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="7af8391647fcc210842d5882e36d43fe" label="tenants" max_length="40" name="x_27034_rentals_tenants" type="collection">
+    <element db_object_id="7af8391647fcc210842d5882e36d43fe" label="Tenants" max_length="40" name="x_27034_rentals_tenants" type="collection">
         <element label="Agreement valid" max_length="40" name="agreement_valid" type="glide_date"/>
         <element label="Deposit" max_length="32" name="deposit" type="currency2"/>
         <element label="Electric" max_length="40" name="electric" type="string"/>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c7029c92474e4610842d5882e36d4369" extends="sys_import_set_row" label="Imp Tmpl X 27034 Rentals Rentals" max_length="40" name="u_imp_tmpl_x_27034_rentals_rentals" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Balance (INR )" label="Balance (INR )" max_length="40" name="u_balance__inr__" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cheque Number" label="Cheque Number" max_length="40" name="u_cheque_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Deposit Amount (INR )" label="Deposit Amount (INR )" max_length="40" name="u_deposit_amount__inr__" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=S No." label="S No." max_length="40" name="u_s_no_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Transaction Date" label="Transaction Date" max_length="40" name="u_transaction_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Transaction Remarks" label="Transaction Remarks" max_length="79" name="u_transaction_remarks" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Value Date" label="Value Date" max_length="40" name="u_value_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Withdrawal Amount (INR )" label="Withdrawal Amount (INR )" max_length="40" name="u_withdrawal_amount__inr__" type="string"/>
+    </element>
+</database>
